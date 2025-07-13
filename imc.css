@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #e1e3db;
+    color: #1b1f1b;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.section-limit {
+    max-width: 768px;
+    width: 100%;
+}
+
+main div {
+    margin: 50px auto 0 auto;
+}
+
+form, input, button {
+    display: block;
+    margin: 10px auto;
+}
+
+form {
+    margin: 10px auto 0 auto;
+    width: 70%;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%; 
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    background-color: #1b1f1b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover, input:hover {
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: #1b1f1b;
+    margin : 40px auto;
+    font-size: 20px;
+}
+
+div p {
+    text-align: center;
+    font-size: 15px;
+    color: #1b1f1b;
+    margin: 5px 0;
+}
+
+.conatiner-result {
+        padding: 20px auto;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+}
+
+
+
+
+@media (min-width: 768px) {
+
+    .section-limit {
+        max-width: 1024px;
+        width: 100%;
+    }
+
+    form {
+        margin: 40px auto 0 auto;
+        width: 60%;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    div p {
+        font-size: 16px;
+    }
+
+}
+
+@media (min-width: 1024px) {
+
+    .section-limit {
+        max-width: 1224px;
+        width: 100%;
+    }
+
+    form {
+        margin: 40px auto 0 auto;
+        width: 40%;
+    }
+
+
+    footer {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+
+    div p {
+        font-size: 18px;
+    }
+
+}
