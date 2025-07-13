@@ -25,4 +25,4 @@ Este projeto teve como objetivo praticar habilidades em manipulação do DOM, re
 3. Clique no botão "Calcular IMC".
 4. O resultado do IMC será exibido junto com uma mensagem interpretativa.
 
-🔗 [Acesse aqui a calculadora online](https://cayua.github.io/imc-dom/)
+🔗 [Acesse aqui a calculadora online](https://imcweb.netlify.app/)
