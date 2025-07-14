@@ -1,5 +1,9 @@
 # Calculadora de IMC 
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## Descrição
 Esta é uma aplicação simples para calcular o Índice de Massa Corporal (IMC) usando HTML, CSS e JavaScript. O IMC é uma medida utilizada para avaliar se uma pessoa está dentro de um peso saudável em relação à sua altura.
 
