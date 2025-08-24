@@ -1,7 +1,5 @@
 document.getElementById("btn-send").addEventListener("click", (event) => { 
 
-    event.preventDefault(); // Prevent form submission
-
     const weight  = parseFloat(document.getElementById("peso").value);
     const height = parseFloat(document.getElementById("altura").value);
     const result = document.getElementById("result");
