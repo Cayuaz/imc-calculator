@@ -1,4 +1,4 @@
-document.getElementById("btn-send").addEventListener("click", (event) => { 
+document.getElementById("btn-send").addEventListener("click", () => { 
 
     const weight  = parseFloat(document.getElementById("peso").value);
     const height = parseFloat(document.getElementById("altura").value);
