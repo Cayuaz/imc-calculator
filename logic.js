@@ -34,7 +34,7 @@ function checkNumber (value1, value2) {
     if(value1 <= 0 || value2 <= 0){
         throw new Error("Os valores de peso e altura precisam ser maiores que zero");
     } else if(Number.isNaN(value1) || Number.isNaN(value2)){
-        throw new Error("Os valores de peso e altura precisam ser números");
+        throw new Error("Os valores de peso e altura precisam ser números e os campos não podem estar vazios");
     } else {
         return true;
     }
