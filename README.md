@@ -30,3 +30,7 @@ Este projeto teve como objetivo praticar habilidades em manipulação do DOM, re
 4. O resultado do IMC será exibido junto com uma mensagem interpretativa.
 
 🔗 [Acesse aqui a calculadora online](https://imcweb.netlify.app/)
+
+## Licença
+
+Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
