@@ -7,6 +7,14 @@
 ## Descrição
 Esta é uma aplicação simples para calcular o Índice de Massa Corporal (IMC) usando HTML, CSS e JavaScript. O IMC é uma medida utilizada para avaliar se uma pessoa está dentro de um peso saudável em relação à sua altura.
 
+## Preview
+
+### Tela Desktop
+![Preview - Desktop](./assets/images/desktop.png)
+
+### Tela Mobile
+![Preview - Mobile](./assets/images/mobile.png)
+
 ## Objetivo
 Este projeto teve como objetivo praticar habilidades em manipulação do DOM, responsividade e interação com o usuário. Foram utilizados HTML para estruturar a página, CSS para estilização e JavaScript para implementar a lógica de cálculo do IMC e controlar os elementos da interface.
 
